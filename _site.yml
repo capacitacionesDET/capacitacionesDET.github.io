@@ -1,0 +1,7 @@
+name: "Capacitaciones en DET"
+output_dir: "."
+navbar:
+  title: "Capacitaciones DET"
+output:
+  html_document:
+    theme: yeti
