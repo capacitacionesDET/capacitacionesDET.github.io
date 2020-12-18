@@ -19,7 +19,7 @@ Las capacitaciones serán realizadas mediante clases expositivas a través de la
 
 ## Programa del curso
 
-**Sesión 1:** Introducción y herramientas de exploración de datos. Miércoles 09 de diciembre, desde las 09:30 a las 12:30.
+**Sesión 1:** [Introducción y herramientas de exploración de datos](https://capacitacionesdet.github.io/sesion_1). Miércoles 09 de diciembre, desde las 09:30 a las 12:30.
 
 + ¿Qué es R y por qué usarlo?
 
@@ -29,7 +29,7 @@ Las capacitaciones serán realizadas mediante clases expositivas a través de la
 
 + Exploración y manipulación básica de un data frame
 
-**Sesión 2:** Procesamiento de bases de datos (1). Viernes 11 de diciembre, desde las 09:30 a las 12:30.
+**Sesión 2:** [Procesamiento de bases de datos (1)](https://capacitacionesdet.github.io/sesion_2). Viernes 11 de diciembre, desde las 09:30 a las 12:30.
 
 + Importación de datos desde distintos formatos a R
 
@@ -41,7 +41,7 @@ Las capacitaciones serán realizadas mediante clases expositivas a través de la
 
 + Herramientas básicas de edición de datos
 
-**Sesión 3:** Procesamiento de bases de datos (2). Martes 15 de diciembre, desde las 09:30 a las 12:30.
+**Sesión 3:** [Procesamiento de bases de datos (2)](https://capacitacionesdet.github.io/sesion_3). Martes 15 de diciembre, desde las 09:30 a las 12:30.
 
 + Herramientas básicas de edición de dato
 
@@ -49,19 +49,19 @@ Las capacitaciones serán realizadas mediante clases expositivas a través de la
 
 + Tidy data
 
-**Sesión 4:** Procesamiento de bases de datos (3). Viernes 18 de diciembre, desde las 09:30 a las 12:30.
+**Sesión 4:** [Procesamiento de bases de datos (3)](https://capacitacionesdet.github.io/sesion_4). Viernes 18 de diciembre, desde las 09:30 a las 12:30.
 
 + Unión de bases de datos (joins, binds)
 
 + Manejo de variables de tiempo (fechas)
 
-**Sesión 5:** Visualización de datos usando el paquete ggplot2. Martes 22 de diciembre, desde las 09:30 a las 12:30.
+**Sesión 5:** [Visualización de datos usando el paquete ggplot2](https://capacitacionesdet.github.io/sesion_5). Martes 22 de diciembre, desde las 09:30 a las 12:30.
 
 + Visualizar para comunicar efectivamente
 
 + La gramática de los gráficos: visualizar datos con ggplot2
 
-**Sesión 6:** En camino a la reproducibilidad. Martes 05 de enero, desde las 09:30 a las 12:30 (por confirmar).
+**Sesión 6:** [En camino a la reproducibilidad](https://capacitacionesdet.github.io/sesion_6). Martes 05 de enero, desde las 09:30 a las 12:30 (por confirmar).
 
 + ¿Por qué es importante el trabajo reproducible?
 
