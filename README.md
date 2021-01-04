@@ -61,11 +61,15 @@ Las capacitaciones serán realizadas mediante clases expositivas a través de la
 
 + La gramática de los gráficos: visualizar datos con ggplot2
 
-**Sesión 6:** [En camino a la reproducibilidad](https://capacitacionesdet.github.io/sesion_6). Martes 05 de enero, desde las 09:30 a las 12:30 (por confirmar).
+**Sesión 6:** [En camino a la reproducibilidad](https://capacitacionesdet.github.io/sesion_6). Martes 12 de enero, desde las 09:30 a las 12:30.
 
 + ¿Por qué es importante el trabajo reproducible?
 
 + Introducción a Rmarkdown – Instalación – ¿Qué es RMarkdown? – Creando mi primer reporte con RMarkdown
+
+**Material complementario**
+
++ [Exportar archivos desde R a Excel - Paquete openxlsx](https://capacitacionesdet.github.io/bonus1_openxlsx/#1)
 
 
 ## Instalación de R y RStudio
